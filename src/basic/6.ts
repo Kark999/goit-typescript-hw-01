@@ -1,3 +1,5 @@
+// тут використан User1 замість User, щоб не видавало помилку у 4.ts блоку generics
+
 interface User1 {
   name: string;
   age: number;
