@@ -16,3 +16,5 @@ const callback: CallbackArg = (a) => {
 };
 
 console.log(callback(40));
+
+// Generic типи //
