@@ -23,5 +23,3 @@ const poly: User = {
   age: 30,
   email: "john@example.com",
 };
-
-// Generic типи //
